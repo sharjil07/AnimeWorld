@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+   background-color: #E384FF;
+}
+.bg-image{
+ width: 100vw;
+ height: 100vh;
+ opacity: 15%;
+ z-index: -3;
+ position: absolute;
+ background-image: url(https://media.tenor.com/yIXQCgNizB4AAAAC/naruto-konohagakure.gif);
+}
+h1{
+    background-color: #de1717;
+    color: #fff;
+    padding: 1rem;
+    width: 100vw;
+    text-align: center;
+    /* margin-left: 100px; */
+    z-index: 2;
+
+}
